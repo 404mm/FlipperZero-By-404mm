@@ -1,0 +1,16 @@
+{
+  "docs": [
+    {
+      "text": "Acción inválida; finalizando.",
+      "metadata": {
+        "source": "final_answer"
+      }
+    },
+    {
+      "text": "[Echo] No hay LLM configurado. Mensaje recibido: {\n  \"task\": \"Di 2 ideas innovadoras para un ecommerce de camisetas\",\n  \"history\": [\n    {\n      \"role\": \"user\",\n      \"content\": \"Di 2 ideas innovadoras para un ecommerce de camisetas\"\n    }\n  ],\n  \"t",
+      "metadata": {
+        "source": "final_answer"
+      }
+    }
+  ]
+}
