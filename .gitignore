@@ -1,0 +1,37 @@
+# Archivos de entorno y credenciales
+.env
+.env.local
+.env.*.local
+
+# Directorios de salida
+logs/
+data/
+downloads/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.bak
+*.log
+*.pid
