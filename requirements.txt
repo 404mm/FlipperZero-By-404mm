@@ -1,0 +1,15 @@
+# Dependencias para automatización Ticketmaster-Podio
+selenium>=4.15.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+
+# Instalación:
+# pip install -r requirements.txt
+
+# Notas adicionales:
+# - Asegúrate de tener Chrome instalado en tu sistema
+# - Descarga ChromeDriver desde https://chromedriver.chromium.org/
+# - O instala usando: pip install webdriver-manager (opcional, para gestión automática)
+
+# Dependencias opcionales para gestión automática de ChromeDriver:
+# webdriver-manager>=4.0.0
